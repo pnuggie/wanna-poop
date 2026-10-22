@@ -4,6 +4,8 @@ A lovely little program that pretends to be malware, but is just Tkinter. Otherw
 ## Do you WannaPoop?
 It is not a real malware, because if I don't say that someone will actually cry. That will probably be me. I am but an innocent student.
 
+This is only (kinda) available for Windows users, because of the `winsound` thing. However, if you ignore the need for sound, anyone can use it!
+
 ## Warning
 
 Do not run this with 300,000,000 windows. If you do, don't sue me.
