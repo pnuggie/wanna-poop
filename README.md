@@ -13,9 +13,8 @@ Do not run this with 300,000,000 windows. If you do, don't sue me.
 
 Contains super hilarious messages that will knock your entire feet off, let alone socks. I know. I'm really funny. There's also random bits of Chinese, Arabic, and Russian, and copy pasted pieces of Rust code from who knows what. Its supposed to be scary, apparently.
 
-**IT ALSO HAS HIGH PITCHED NOISES!!** Make that part of the code a comment if you want to try it without.
-
-Has so much aura your entire house will explode.
+### **IT ALSO HAS HIGH PITCHED NOISES!!** 
+Make that part of the code a comment if you want to try it without.
 
 ## Final warning...
 Please enjoy my programming equivalent to the Mona Lisa.
