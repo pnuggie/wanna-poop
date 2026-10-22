@@ -8,7 +8,7 @@ It is not a real malware, because if I don't say that someone will actually cry.
 
 Do not run this with 300,000,000 windows. If you do, don't sue me.
 
-- I did 400 and Windows started putting weird black shadows on them. Therefore I have set it to 300. Although to be fair I do use a slightly old HP laptop, so if you have a well oiled PC setup you could likely handle a bajillion windows. But don't do that.
+- I did 400 and Windows started putting weird black shadows on them. Therefore I have set it to less. Although to be fair I do use a slightly old HP laptop, so if you have a well oiled PC setup you could likely handle a bajillion windows. But don't do that.
 
 Contains super hilarious messages that will knock your entire feet off, let alone socks. I know. I'm really funny.
 
